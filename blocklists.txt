@@ -1,0 +1,48 @@
+# ═══════════════════════════════════════════
+# LISTA MAESTRA ADGUARD HOME
+# Actualizada: 2026-03
+# ═══════════════════════════════════════════
+
+# ── GENERAL (Ads + Tracking) ─────────────────
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.mini.txt
+https://abp.oisd.nl/big/
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+https://adaway.org/hosts.txt
+https://someonewhocares.org/hosts/zero/hosts
+
+# ── SEGURIDAD (Malware + Phishing) ───────────
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt
+https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://urlhaus.abuse.ch/downloads/hostfile/
+https://hole.cert.pl/domains/domains.txt
+https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/badware-hoster.txt
+https://blocklistproject.github.io/Lists/adguard/malware.txt
+https://blocklistproject.github.io/Lists/adguard/phishing.txt
+https://blocklistproject.github.io/Lists/adguard/scam.txt
+https://blocklistproject.github.io/Lists/adguard/ransomware.txt
+
+# ── PORNO / CONTENIDO ADULTO ─────────────────
+https://nsfw.oisd.nl/
+https://raw.githubusercontent.com/columndeeply/hosts/main/hosts00
+https://raw.githubusercontent.com/columndeeply/hosts/main/hosts01
+https://raw.githubusercontent.com/columndeeply/hosts/main/hosts02
+https://raw.githubusercontent.com/columndeeply/hosts/main/hosts03
+https://raw.githubusercontent.com/columndeeply/hosts/main/hosts04
+https://raw.githubusercontent.com/columndeeply/hosts/main/hosts05
+https://blocklistproject.github.io/Lists/adguard/porn.txt
+
+# ── PRIVACIDAD / TRACKING ────────────────────
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+
+# ── OTROS ────────────────────────────────────
+https://blocklistproject.github.io/Lists/adguard/gambling.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt
